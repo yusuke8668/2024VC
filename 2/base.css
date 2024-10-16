@@ -1,0 +1,15 @@
+@charset "utf-8";
+body h1 {
+	color: #FF0004;
+	font-family: "HG創英角ﾎﾟｯﾌﾟ体";
+}
+.key {
+	color: #22FF00;
+	background-color: #F8FF00;
+}
+body p img {
+	border: 10px dashed #0005FF;
+}
+body  {
+	background-image: url(back.jpeg);
+}
